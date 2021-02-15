@@ -1,0 +1,15 @@
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/Battle-Arena-Dream-Loop.deps.json
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/Battle-Arena-Dream-Loop.runtimeconfig.json
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/Battle-Arena-Dream-Loop.runtimeconfig.dev.json
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/Battle-Arena-Dream-Loop.dll
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/ref/Battle-Arena-Dream-Loop.dll
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/bin/Debug/net5.0/Battle-Arena-Dream-Loop.pdb
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.csprojAssemblyReference.cache
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.AssemblyInfoInputs.cache
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.AssemblyInfo.cs
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.csproj.CoreCompileInputs.cache
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.dll
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/ref/Battle-Arena-Dream-Loop.dll
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.pdb
+/Users/laurahoffmeyer/Documents/Bootcamp/BreakingITDown/Battle-Arena-Dream-Loop/obj/Debug/net5.0/Battle-Arena-Dream-Loop.genruntimeconfig.cache

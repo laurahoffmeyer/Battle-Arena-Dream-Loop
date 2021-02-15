@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Battle-Arena-Dream-Loop/1.0.0": {
+        "runtime": {
+          "Battle-Arena-Dream-Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battle-Arena-Dream-Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
